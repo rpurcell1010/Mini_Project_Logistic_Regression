@@ -1,1 +1,0 @@
-# Mini_Project_Logistic_Regression
